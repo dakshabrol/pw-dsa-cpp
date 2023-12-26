@@ -1,0 +1,3 @@
+Find the output (Q1)
+
+Output: 0

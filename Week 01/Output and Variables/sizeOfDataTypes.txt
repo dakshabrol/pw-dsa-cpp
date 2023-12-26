@@ -1,0 +1,5 @@
+Space taken by data types:
+
+int - 4 byte
+bool - 1 bytes
+float - 1 byte

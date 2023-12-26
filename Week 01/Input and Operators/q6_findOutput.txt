@@ -1,0 +1,3 @@
+Find the output (Q6)
+
+Output: 49

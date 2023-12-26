@@ -1,0 +1,7 @@
+Possible Variable name from the following are:
+
+01PWskills			-	Not Possible
+_FLOAT				-	Possible
+int					-	Not Possible
+FLOAT				-	Possible
+You will succeed	-	Not Possible
