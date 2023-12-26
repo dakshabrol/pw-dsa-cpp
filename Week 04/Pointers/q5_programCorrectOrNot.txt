@@ -1,0 +1,1 @@
+Although the program's code is valid and will compile, runtime errors may occur. This is due to the fact that ptr will have a garbage address that may even refer to a place that is not part of the code, which might trigger a Segmentation Fault when we attempt to access it.

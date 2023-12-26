@@ -1,0 +1,1 @@
+If and only if two functions have different numbers of arguments or distinct data types for arguments, they can have the same function name without causing any conflicts. If a function's return type is the sole difference between them, then the function names cannot be the same since the compiler won't know which function to employ.
