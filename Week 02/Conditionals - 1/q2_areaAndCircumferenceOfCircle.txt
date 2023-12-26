@@ -1,0 +1,11 @@
+For a circle of radius r,
+Area = pi*(r^2)
+Circumference = 2*pi*r
+
+For all values of radius r, the Area of circle is always greater than Circumference of circle except for the two cases mentioned below.
+
+1. At radius r = 0;
+For a circle with numerical value as 0, both Area and Circumference will be equal in value.
+
+2. At radius r = 2;
+For a circle with a numerical value of 2, both Area and Circumference will be equal in value.
